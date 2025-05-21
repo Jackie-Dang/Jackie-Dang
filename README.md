@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-💻 Passionate about solving real-world problems with cloud-native solutions  
-📦 Building hands-on projects with AWS, Terraform, and Python  
-🤝 Team-oriented and driven by shared learning and collaboration  
-🌱 Committed to continuous learning, designing scalable architectures, and building with purpose
-🚀 Focused on automation, system reliability, and deployment efficiency
+- 💻 Passionate about solving real-world problems with cloud-native solutions  
+- 📦 Building hands-on projects with AWS, Terraform, and Python  
+- 🤝 Team-oriented and driven by shared learning and collaboration  
+- 🌱 Committed to continuous learning, designing scalable architectures, and building with purpose  
+- 🚀 Focused on automation, system reliability, and deployment efficiency  
 
 ---
 
@@ -54,12 +54,12 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [three-tier-aws-architecture](https://github.com/jackie-dang/three-tier-aws-architecture) | Scalable 3-tier app using EC2, RDS, ALB, VPC, IAM | EC2, RDS, Terraform |
-| [serverless-webapp-aws](https://github.com/jackie-dang/serverless-webapp-aws) | Serverless app with Lambda, API Gateway, S3, DynamoDB | Lambda, API Gateway, S3 |
-| [terraform-aws-automation](https://github.com/jackie-dang/terraform-aws-automation) | Modular Terraform scripts with GitHub Actions for CI/CD | Terraform, CI/CD |
-| [monitoring-with-cloudwatch-elk](https://github.com/jackie-dang/monitoring-with-cloudwatch-elk) | Centralized logging and metrics with CloudWatch, ELK, and SNS | Observability, Logging |
+| [Three-Tier AWS Architecture](https://github.com/jackie-dang/three-tier-aws-architecture) | Scalable 3-tier app using EC2, RDS, ALB, VPC, IAM | EC2, RDS, Terraform |
+| [Serverless Web App](https://github.com/jackie-dang/serverless-webapp-aws) | Serverless app with Lambda, API Gateway, S3, DynamoDB | Lambda, API Gateway, S3 |
+| [Terraform AWS Automation](https://github.com/jackie-dang/terraform-aws-automation) | Modular Terraform scripts with GitHub Actions for CI/CD | Terraform, CI/CD |
+| [Monitoring with CloudWatch & ELK](https://github.com/jackie-dang/monitoring-with-cloudwatch-elk) | Centralized logging and metrics with CloudWatch, ELK, and SNS | Observability, Logging |
 
-> 💡 *Each project includes diagrams, IaC code, and documentation — check them out in the repos above!*
+> 💡 *Each project includes architecture diagrams, IaC code, and documentation — check them out in the repos above!*
 
 ---
 
